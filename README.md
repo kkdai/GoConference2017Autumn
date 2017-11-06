@@ -4,7 +4,7 @@ A slides collection for [Go Conference 2017 Autumn](https://gocon.connpass.com/e
 ## Talk session and Slides
 - [Go at DigitalOcean by @fatih](https://speakerdeck.com/farslan/go-at-digitalocean)
 - [Go + microservices at Mercari / @deeeet](https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide#1)
-- 大規模で運用するためのモニタリングエージェントを自作する話 / huydx
+- [Story of our own monitoring agent in golang](https://www.slideshare.net/dxhuy88/gocon-autumn-story-of-our-own-monitoring-agent-in-golang) / huydx
 - Prometheusから考察するGoのロギング / 大和屋貴仁
 - Goのcompileの仕組みと高速化への取り組み / niconegoto
 - Async, Persistent, Fast, and Stable "Enough" Queue/Worker Using Go and PostgreSQL / _achiku
